@@ -1,0 +1,6 @@
+framework module Pods_9thHW {
+  umbrella header "Pods-9thHW-umbrella.h"
+
+  export *
+  module * { export * }
+}
